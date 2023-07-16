@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    城市信息  
+-->
+<root>
+    <city>
+        <名称>上海</名称>
+    </city>
+    <city>
+        <名称>北京</名称>
+    </city>
+    <city>
+        <名称>成都</名称>
+    </city>
+</root>

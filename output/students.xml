@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+     学生信息表 
+-->
+<root>
+    <student>
+        <姓名>张三</姓名>
+        <score1>150</score1>
+        <score2>120</score2>
+        <score3>100</score3>
+    </student>
+    <student>
+        <姓名>李四</姓名>
+        <score1>90</score1>
+        <score2>99</score2>
+        <score3>95</score3>
+    </student>
+    <student>
+        <姓名>王五</姓名>
+        <score1>60</score1>
+        <score2>66</score2>
+        <score3>68</score3>
+    </student>
+</root>
